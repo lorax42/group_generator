@@ -13,7 +13,7 @@ int main()
     
     std::cout
         << "\nC++ group generator 0.2\n"
-        << "(c) Lloyd Bush 2023\n"
+        << "(c) Lloyd Bush 2024\n"
         << "*************************\n"
         << "\n"
         << "recommended terminal size: 125 x 50\n";

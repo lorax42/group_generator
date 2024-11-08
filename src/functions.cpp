@@ -330,7 +330,7 @@ void help_me(){
         << "For more information contact the author directly.\n"
         << "\n"
         << "\tC++ group generator 0.1\n"
-        << "\t(c) Lloyd Bush 2023\n"
+        << "\t(c) Lloyd Bush 2024\n"
         << "\t*************************\n"
         << "\n"
         << "\t1\tAdd student\t\t\t<-- add a student to the list by name\n"
