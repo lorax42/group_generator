@@ -19,8 +19,7 @@ _..._
 MAKE SURE THIS FILE IS IN THE SAME DIRECTORY AS THE _group_gen_0.x_ FILE\
 BY DEFAULT THIS IS THE BIN DIRECTORY
 
-####################################################################################################
-
+---
 CHANGELOG:
 ==========
 
@@ -50,6 +49,6 @@ SHOW HELP MENU
 
 EXIT PROGRAM
 
-####################################################################################################
+---
 
 THIS FILE WAS LAST UPDATED ON THE (dd.mm.yyyy): _28.09.2023_
